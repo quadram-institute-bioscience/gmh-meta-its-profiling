@@ -1,1 +1,1 @@
-# gmh-meta-its-profiling
+# gmh-META-ITS-profiling
